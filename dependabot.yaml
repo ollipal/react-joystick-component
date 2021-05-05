@@ -13,6 +13,3 @@ updates:
       day: "monday"
     labels:
       - "dependencies"
-    ignore:
-      - dependency-name: "typescript"
-      - dependency-name: "eslint"
